@@ -1,7 +1,7 @@
 # 🌡️ LST Urban Heat Prediction — Mangaluru
 
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/downloads/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-F7CA18?style=for-the-badge)](https://opensource.org/licenses/MIT)
+
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
 [![XGBoost](https://img.shields.io/badge/Model-XGBoost-FF6600?style=for-the-badge)](https://xgboost.readthedocs.io/)
 [![GEE](https://img.shields.io/badge/Data-Google%20Earth%20Engine-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://earthengine.google.com/)
@@ -249,16 +249,3 @@ Pixel coordinates are cross-checked between the train and validation sets; any o
 
 ---
 
-## 🙏 Acknowledgements
-
-- **Dr. Subrahmanya Kundapura** (Associate Professor, Dept. of Water Resources & Ocean Engineering, NITK) — project guide.
-- **Ms. Apoorva K. V.** — research scholar, for support during data collection and analysis.
-- **USGS / NASA** — Landsat 8 & 9 Level-2 satellite imagery.
-- **Google Earth Engine** — cloud computing platform for composite generation.
-- Albedo formula: **Liang, S. (2001)**, *Narrowband to broadband conversions of land surface albedo*, Remote Sensing of Environment, 76(2), 213–238.
-
----
-
-## 📝 License
-
-MIT License — see [LICENSE](LICENSE) for details.
