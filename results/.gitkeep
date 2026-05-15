@@ -1,0 +1,2 @@
+# This file keeps the results/ directory tracked by git.
+# Model artifacts (.joblib, .pkl) saved here are git-ignored.
